@@ -19,7 +19,7 @@ Ezután összeveti a meglévő csempék számával, és visszajelzi, mennyi mara
 
 ### Modul
 - `nb_modul.py` – a saját modul
-- `tkinter` – a grafikus felülethez (tanult modul)
+- `tkinter` – a grafikus felülethez
 
 ### Függvények (`nb_modul.py`)
 - `nb_felfele(a, b)` – felfelé kerekített osztás
